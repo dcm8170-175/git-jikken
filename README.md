@@ -1,0 +1,3 @@
+#マニュアル作成用READMD.md
+マニュアル作成用にファイルのみ作成となります。
+aaaaaaaaaaaaaaaaaaaaaaaaaaaa
